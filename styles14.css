@@ -1,0 +1,167 @@
+*{
+    font: 700 'Times New Roman', Times, serif;
+    background-color: rgb(0, 0, 0);
+    
+  
+    text-align: center;
+    border: 10px rgb(89, 89, 89) double;
+    border-radius: 100px;
+    list-style-type: none;
+    margin: 10px 10px 10px 10px;
+  
+    
+
+}
+
+header{
+    text-decoration: aliceblue;
+    font-size: 50px;
+    color: rgb(0, 255, 0);
+    
+   
+   
+    
+
+   
+}
+
+
+.nav-item{
+     border-radius: 50%;
+     border: 14px rgb(179, 255, 0) double;
+     color: rgb(28, 246, 246);
+
+   
+
+  
+    list-style-type: none;
+
+}
+#Projects-section{
+    text-align: center;
+    border: 10px rgb(0, 51, 255) double;
+    border-radius: 100px;
+    font-size: larger;
+    color: azure;
+
+    padding: 5%;
+    width: 35%;
+    float: left;
+  
+}
+#story-section{
+
+    font-size: larger;
+  
+    border: 10px double rgb(77, 255, 0);
+    border-radius: 100px solid;
+    width: 80%;
+    margin: 50px 50px 50px 100px;
+
+
+    color: #ff0000;
+    padding: 5px;
+    border: 20px double rgb(26, 255, 0);
+    border-radius: 5px;
+
+
+    z-index: 1;
+
+}
+#contact-section{
+    text-align: center;
+    border: 10px rgb(0, 51, 255) double;
+    border-radius: 100px;
+    font-size: larger;
+    color: azure;
+
+    padding: 5%;
+    width: 35%;
+    float: right;
+  
+
+
+/*     
+    text-align: center;
+    border: 10px rgb(225, 0, 255) double;
+    border-radius: 100px;
+    padding: 5%;
+   color:azure;
+
+    font-size: larger;
+    width: 35%;
+    float: left;
+     */
+
+   
+
+
+  
+
+}
+.Projects-area{
+    color: rgb(180, 191, 55);
+   
+     border: 10px  rgb(188, 0, 0) double;
+
+   
+   
+   
+}
+
+   
+   
+   
+
+
+
+
+.Social{
+    color: rgb(236, 255, 31);
+    border: 10px double rgb(9, 255, 9);
+    
+
+ 
+  
+
+
+
+    
+}
+#Wrapper-design1{
+     border: 15px double #fff7f7 ;
+    box-sizing: border-box;
+     
+     
+  
+
+}
+#Wrapper-design2{
+    border: 10px double #fff7f7 ;
+   box-sizing: border-box;
+    
+    
+ 
+
+}
+#Wrapper-design3{
+    border: 5px double #fff7f7 ;
+   box-sizing: border-box;
+    
+    
+ 
+
+}
+#Wrapper-design4{
+    border: 3px double #ffffff ;
+   box-sizing: border-box;
+    
+    
+ 
+
+}
+ 
+footer{
+    color:wheat;
+    font-style: italic;
+}
